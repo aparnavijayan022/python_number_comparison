@@ -1,2 +1,13 @@
 # python_number_comparison
-A simple python program that takes two numbers as input and checks whether the first number is greater than or equal to the second number.This project demonstrates basic input handling,comparison operators,and a clean Pythonic approach without unnecessary if-else statements.
+
+This is a beginner-friendly Python project that compares two numbers entered by the user and prints whether the first number is greater than or equal to the second number.
+
+ How It Works
+- The program asks the user to enter two numbers.
+- It compares the numbers using the `>=` operator.
+- The result (`True` or `False`) is printed directly.
+
+Why This Approach?
+Using:
+```python
+print(a >= b)
